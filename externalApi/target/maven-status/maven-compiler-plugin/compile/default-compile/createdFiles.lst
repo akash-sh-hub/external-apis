@@ -1,0 +1,6 @@
+com/example/externalApi/ExternalApiApplication.class
+com/example/externalApi/repository/FxRateRepository.class
+com/example/externalApi/controller/FxRateController.class
+com/example/externalApi/service/FxRateService.class
+com/example/externalApi/model/PrepareMessage.class
+com/example/externalApi/model/FxRate.class
